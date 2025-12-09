@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+model/*.h5
+model/*.pkl
+
+# Streamlit cache
+.streamlit/
