@@ -41,8 +41,8 @@ h1, h2, h3 { color: #F4F4F6; }
 st.markdown(css, unsafe_allow_html=True)
 
 DATA_PATH = "data/global_market_master.csv"
-MODEL_PATH = "model/lstm_model.keras"
-SCALER_PATH = "model/scaler.pkl"
+MODEL_PATH = "models/lstm_model.keras"
+SCALER_PATH = "models/scaler.pkl"
 
 # --------------------------
 # Load Data
