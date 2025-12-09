@@ -13,7 +13,7 @@ st.set_page_config(
 )
 
 DATA_PATH = "data/global_market_master.csv"
-MODEL_PATH = "models/lstm_model.h5"
+MODEL_PATH = "models/lstm_model.keras"
 SCALER_PATH = "models/scaler.pkl"
 
 
